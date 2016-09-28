@@ -1,0 +1,4 @@
+This module has been forked from the original camptocamp/tomcat module.
+The manifest/sources.pp file has been patched for compatability with the
+puppet/archive module. It no longer requires or works with the 
+camptocap/archive module.
